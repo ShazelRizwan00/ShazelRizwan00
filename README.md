@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,35:052e2b,70:064e3b,100:0f172a&text=SHAZEL%20RIZWAN&fontColor=6EE7B7&fontSize=44&fontAlignY=38&desc=%24%20building%20the%20next%20thing...&descSize=15&descAlignY=60&animation=twinkling" alt="Animated dark terminal-style banner for Shazel Rizwan" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:09090B,35:2A0A0A,70:7F1D1D,100:18181B&text=SHAZEL%20RIZWAN&fontColor=FF5A5F&fontSize=44&fontAlignY=38&desc=%24%20building%20the%20next%20thing...&descSize=15&descAlignY=60&animation=twinkling" alt="Animated dark terminal-style banner for Shazel Rizwan" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=800&color=6EE7B7&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+Shazel+Rizwan;%24+role+%E2%86%92+CS+student+%40+NUST;%24+focus+%E2%86%92+full-stack+engineering;%24+status+%E2%86%92+building+%26+learning" alt="Animated terminal typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=800&color=FF5A5F&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+Shazel+Rizwan;%24+role+%E2%86%92+CS+student+%40+NUST;%24+focus+%E2%86%92+full-stack+engineering;%24+status+%E2%86%92+building+%26+learning" alt="Animated terminal typing introduction" />
 
 <p>
-  <a href="https://www.shazel-rizwan.live/"><img src="https://img.shields.io/badge/Portfolio-6EE7B7?style=for-the-badge&logo=vercel&logoColor=020617" alt="Portfolio" /></a>
-  <a href="https://github.com/ShazelRizwan00"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=6EE7B7" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/shazel-rizwan/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=6EE7B7" alt="LinkedIn" /></a>
-  <a href="mailto:shazelrizwan00@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=6EE7B7" alt="Email" /></a>
+  <a href="https://www.shazel-rizwan.live/">Portfolio ↗</a> &nbsp;·&nbsp;
+  <a href="https://github.com/ShazelRizwan00">GitHub ↗</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/shazel-rizwan/">LinkedIn ↗</a> &nbsp;·&nbsp;
+  <a href="mailto:shazelrizwan00@gmail.com">Email ↗</a>
 </p>
 
 </div>
@@ -63,7 +63,7 @@ MODE    learn -> build -> refine
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://pit-lane-zeta.vercel.app/"><img src="https://img.shields.io/badge/01%20%2F%20PITLANE-6EE7B7?style=flat-square&labelColor=0B1220" alt="PitLane" /></a>
+<a href="https://pit-lane-zeta.vercel.app/"><img src="https://img.shields.io/badge/01%20%2F%20PITLANE-FF5A5F?style=flat-square&labelColor=0B1220" alt="PitLane" /></a>
 
 ### PitLane
 Formula 1 statistics app for race schedules, standings, and timing classifications.
@@ -77,21 +77,21 @@ Formula 1 statistics app for race schedules, standings, and timing classificatio
 </td>
 <td width="50%" valign="top">
 
-<a href="https://crewspace.runs-on.dev/"><img src="https://img.shields.io/badge/02%20%2F%20CREWSPACE-6EE7B7?style=flat-square&labelColor=0B1220" alt="CrewSpace" /></a>
+<a href="https://crewspace.runs-on.dev/"><img src="https://img.shields.io/badge/02%20%2F%20CREWSPACE-FF5A5F?style=flat-square&labelColor=0B1220" alt="CrewSpace" /></a>
 
 ### CrewSpace
 Team collaboration project focused on helping teams organize work and collaborate.
 
 <sub><code>Project repository: CrewCollab</code></sub>
 
-[**↗ Live demo**](https://crewspace.runs-on.dev/) · [Repository](https://github.com/ShazelRizwan00/CrewCollab)
+[**↗ Live demo**](https://crewspace.runs-on.dev/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://www.shazel-rizwan.live/"><img src="https://img.shields.io/badge/03%20%2F%20PORTFOLIO-6EE7B7?style=flat-square&labelColor=0B1220" alt="Portfolio" /></a>
+<a href="https://www.shazel-rizwan.live/"><img src="https://img.shields.io/badge/03%20%2F%20PORTFOLIO-FF5A5F?style=flat-square&labelColor=0B1220" alt="Portfolio" /></a>
 
 ### Personal Portfolio
 A home for my projects, technical interests, and development journey.
@@ -103,7 +103,7 @@ A home for my projects, technical interests, and development journey.
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/04%20%2F%20CRICKET%20PROJECT-6EE7B7?style=flat-square&labelColor=0B1220" alt="Cricket project" />
+<img src="https://img.shields.io/badge/04%20%2F%20CRICKET%20PROJECT-FF5A5F?style=flat-square&labelColor=0B1220" alt="Cricket project" />
 
 ### Cricket Prediction League
 A developing concept around cricket predictions, leagues, leaderboards, and match statistics.
@@ -120,10 +120,10 @@ A developing concept around cricket predictions, leagues, leaderboards, and matc
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=ShazelRizwan00&show_icons=true&hide_border=true&bg_color=080F0D&title_color=6EE7B7&icon_color=6EE7B7&text_color=D1FAE5" alt="GitHub statistics" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShazelRizwan00&layout=compact&langs_count=6&hide_border=true&bg_color=080F0D&title_color=6EE7B7&text_color=D1FAE5" alt="Most-used languages in public repositories" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=ShazelRizwan00&show_icons=true&hide_border=true&bg_color=12090C&title_color=FF5A5F&icon_color=FF5A5F&text_color=FFE4E6" alt="GitHub statistics" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShazelRizwan00&layout=compact&langs_count=6&hide_border=true&bg_color=12090C&title_color=FF5A5F&text_color=FFE4E6" alt="Most-used languages in public repositories" />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShazelRizwan00&bg_color=080F0D&color=D1FAE5&line=6EE7B7&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShazelRizwan00&bg_color=12090C&color=FFE4E6&line=FF5A5F&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
@@ -137,13 +137,13 @@ A developing concept around cricket predictions, leagues, leaderboards, and matc
 
 <br/><br/>
 
-<a href="https://www.shazel-rizwan.live/">Portfolio</a> ·
-<a href="https://github.com/ShazelRizwan00">GitHub</a> ·
-<a href="https://www.linkedin.com/in/shazel-rizwan/">LinkedIn</a> ·
-<a href="mailto:shazelrizwan00@gmail.com">Email</a>
+<a href="https://www.shazel-rizwan.live/">Portfolio ↗</a> &nbsp;·&nbsp;
+<a href="https://github.com/ShazelRizwan00">GitHub ↗</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/shazel-rizwan/">LinkedIn ↗</a> &nbsp;·&nbsp;
+<a href="mailto:shazelrizwan00@gmail.com">Email ↗</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ShazelRizwan00&color=6EE7B7&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ShazelRizwan00&color=FF5A5F&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
