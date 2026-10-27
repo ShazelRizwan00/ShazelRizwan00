@@ -37,9 +37,9 @@ STATUS    LEARN  /  BUILD  /  DEBUG  /  REPEAT
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://crewspace.runs-on.dev/"><img width="100%" src="./assets/graphics/workstation.svg" alt="Retro workstation illustration representing software projects" /></a>
+<sub><code>01 // LIVE APPLICATION</code></sub>
 
-### 01 — CrewSpace
+### CrewSpace
 
 A team collaboration platform, built around the idea of bringing team workflows into one workspace.
 
@@ -79,9 +79,9 @@ My own corner of the web for presenting projects, technical interests, and what 
 </td>
 <td width="50%" valign="top">
 
-<img width="100%" src="./assets/graphics/terminal-divider.svg" alt="Terminal-style project divider" />
+<sub><code>04 // CONCEPT IN DEVELOPMENT</code></sub>
 
-### 04 — Cricket Prediction League
+### Cricket Prediction League
 
 A developing concept around cricket predictions, leagues, leaderboards, and match statistics.
 
