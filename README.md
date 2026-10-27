@@ -1,125 +1,119 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090B,25:1C080B,60:7F1D1D,100:09090B&text=SHAZEL%20RIZWAN&fontColor=FF5A5F&fontSize=48&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%2F%2F%20IN%20PROGRESS&descSize=13&descAlignY=60&animation=twinkling" alt="Animated red cyberpunk banner with Shazel Rizwan's name" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=700&color=FF5A5F&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+Shazel+Rizwan;%24+studying+%E2%86%92+Computer+Science+%40+NUST;%24+building+%E2%86%92+full-stack+web+apps;%24+loop+%E2%86%92+learn()+%3B+build()+%3B+repeat()" alt="Animated red terminal introduction" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:09090B,45:1A0508,100:450A0A&text=SHAZEL%20RIZWAN&fontColor=F87171&fontSize=54&fontAlignY=40&desc=ENGINEERING%20IDEAS%20INTO%20SOFTWARE&descSize=14&descAlignY=61&animation=fadeIn" alt="Shazel Rizwan — red and black software engineering banner" />
 
 <p>
-  <a href="https://www.shazel-rizwan.live/"><img src="https://img.shields.io/badge/PORTFOLIO-FF5A5F?style=for-the-badge&logo=vercel&logoColor=09090B" alt="Visit portfolio" /></a>
-  <a href="https://github.com/ShazelRizwan00"><img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=FF5A5F" alt="GitHub profile" /></a>
-  <a href="https://www.linkedin.com/in/shazel-rizwan/"><img src="https://img.shields.io/badge/LINKEDIN-18181B?style=for-the-badge&logo=linkedin&logoColor=FF5A5F" alt="LinkedIn profile" /></a>
-  <a href="mailto:shazelrizwan00@gmail.com"><img src="https://img.shields.io/badge/EMAIL-18181B?style=for-the-badge&logo=gmail&logoColor=FF5A5F" alt="Email" /></a>
+  <a href="https://www.shazel-rizwan.live/">PORTFOLIO</a> &nbsp; / &nbsp;
+  <a href="https://github.com/ShazelRizwan00">GITHUB</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/shazel-rizwan/">LINKEDIN</a> &nbsp; / &nbsp;
+  <a href="mailto:shazelrizwan00@gmail.com">CONTACT</a>
 </p>
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-LEARNING%20BY%20BUILDING-18181B?style=flat-square&labelColor=7F1D1D&color=FF5A5F" alt="Learning by building" />
-  <img src="https://img.shields.io/badge/BASED-PAKISTAN-18181B?style=flat-square&labelColor=7F1D1D&color=FF5A5F" alt="Based in Pakistan" />
-</p>
-
----
+<br/>
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
-## <code>01 / about.exe</code>
+## 01 — The developer
 
-I'm a Computer Science student at **NUST, Pakistan**, focused on building useful software and understanding the engineering behind it. I like taking an idea from a rough concept to a working application—and then refining it.
+I'm **Shazel Rizwan**, a Computer Science student at **NUST, Pakistan**. I build projects to turn concepts into working software and grow as an engineer—from user-facing interfaces to backend logic and data.
 
-- **Frontend:** React, TypeScript, JavaScript, Tailwind CSS
-- **Backend:** Node.js, Express, Java, Spring Boot
-- **Data:** PostgreSQL, MySQL, Supabase, SQL
-- **Foundations:** Data structures, algorithms, databases, software design
+My current direction is **full-stack development**, with a focus on clean implementation, practical problem-solving, and strengthening core computer science fundamentals.
 
 </td>
-<td width="42%" valign="top">
+<td width="38%" valign="top">
 
-## <code>02 / terminal</code>
+<img width="100%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Animated developer working at a computer" />
 
 ```text
-┌─[shazel@github]
-└─$ whoami
-   CS student @ NUST
-
-┌─[shazel@github]
-└─$ focus
-   full-stack engineering
-
-┌─[shazel@github]
-└─$ current_mode
-   learn / build / refine
+USER   shazel
+ROLE   CS student
+BASE   NUST, Pakistan
+MODE   build / learn / repeat
 ```
 
 </td>
 </tr>
 </table>
 
-## <code>03 / tech-stack</code>
+---
+
+## 02 — Tools I work with
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,java,spring,cpp,python,html,css,tailwind,postgres,mysql,supabase,git,github,docker,vscode&theme=dark&perline=10" alt="JavaScript, TypeScript, React, Node.js, Express, Java, Spring Boot, C++, Python, HTML, CSS, Tailwind CSS, PostgreSQL, MySQL, Supabase, Git, GitHub, Docker, and VS Code" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,java,spring,cpp,python,html,css,tailwind,postgres,mysql,supabase,git,github,docker,vscode&theme=dark&perline=9" alt="JavaScript, TypeScript, React, Node.js, Express, Java, Spring Boot, C++, Python, HTML, CSS, Tailwind CSS, PostgreSQL, MySQL, Supabase, Git, GitHub, Docker, and VS Code" />
 
 </div>
 
+<sub>Frontend · Backend · Databases · Core CS</sub>
+
 ---
 
-## <code>04 / selected-projects</code>
+## 03 — Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://pit-lane-zeta.vercel.app/"><img src="https://img.shields.io/badge/PROJECT_01-PITLANE-FF5A5F?style=for-the-badge&labelColor=18181B" alt="PitLane project" /></a>
+<a href="https://pit-lane-zeta.vercel.app/"><img width="100%" src="https://img.shields.io/badge/01%20%E2%80%94%20PITLANE-F87171?style=for-the-badge&labelColor=171717" alt="PitLane project" /></a>
 
-### 🏎️ PitLane
-**Formula 1 statistics dashboard**
+### 🏁 PitLane
 
-Explore race schedules, standings, and timing classifications in a dedicated F1 web application.
+A Formula 1 statistics web app focused on race schedules, standings, and timing classifications.
 
-<sub><code>React</code> <code>Node.js</code> <code>Express</code></sub>
+**Stack**  
+`React` · `Node.js` · `Express`
 
-[Open live demo ↗](https://pit-lane-zeta.vercel.app/)
+[Explore live project ↗](https://pit-lane-zeta.vercel.app/)
 
-<sub>Deployed; some features are still being refined.</sub>
+<sub>Live deployment; some features are still being refined.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://crewspace.runs-on.dev/"><img src="https://img.shields.io/badge/PROJECT_02-CREWSPACE-FF5A5F?style=for-the-badge&labelColor=18181B" alt="CrewSpace project" /></a>
+<a href="https://crewspace.runs-on.dev/"><img width="100%" src="https://img.shields.io/badge/02%20%E2%80%94%20CREWSPACE-F87171?style=for-the-badge&labelColor=171717" alt="CrewSpace project" /></a>
 
 ### 🧩 CrewSpace
-**Team collaboration platform**
 
-A collaborative workspace project focused on organizing team work and collaboration.
+A team collaboration platform project, built around the idea of bringing team workflows into one workspace.
 
-[Open live demo ↗](https://crewspace.runs-on.dev/)
+**Project access**
+
+[Explore live project ↗](https://crewspace.runs-on.dev/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://www.shazel-rizwan.live/"><img src="https://img.shields.io/badge/PROJECT_03-PORTFOLIO-FF5A5F?style=for-the-badge&labelColor=18181B" alt="Personal portfolio project" /></a>
+<a href="https://www.shazel-rizwan.live/"><img width="100%" src="https://img.shields.io/badge/03%20%E2%80%94%20PORTFOLIO-F87171?style=for-the-badge&labelColor=171717" alt="Portfolio project" /></a>
 
-### ✦ Developer Portfolio
-My personal site for presenting projects, skills, and my journey as a developer.
+### ✦ Personal portfolio
 
-<sub><code>React</code> <code>Vite</code> <code>Tailwind CSS</code></sub>
+My own corner of the web for presenting projects, technical interests, and what I'm learning.
 
-[Visit portfolio ↗](https://www.shazel-rizwan.live/)
+**Stack**  
+`React` · `Vite` · `Tailwind CSS`
+
+[Visit website ↗](https://www.shazel-rizwan.live/)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/PROJECT_04-CRICKET-FF5A5F?style=for-the-badge&labelColor=18181B" alt="Cricket project" />
+<img width="100%" src="https://img.shields.io/badge/04%20%E2%80%94%20CRICKET%20PROJECT-F87171?style=for-the-badge&labelColor=171717" alt="Cricket project" />
 
-### 🏏 Cricket Prediction League
-A developing project concept around cricket match predictions, leagues, leaderboards, and statistics.
+### 🏏 Cricket prediction league
 
-<sub>Planned direction: responsive, data-driven full-stack experience.</sub>
+A developing project concept around cricket predictions, leagues, leaderboards, and match statistics.
+
+**Direction**  
+`Sports data` · `Predictions` · `Full-stack`
+
+<sub>Concept and planned features are still evolving.</sub>
 
 </td>
 </tr>
@@ -127,34 +121,34 @@ A developing project concept around cricket match predictions, leagues, leaderbo
 
 ---
 
-## <code>05 / github-telemetry</code>
+## 04 — GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShazelRizwan00&show_icons=true&hide_border=true&bg_color=0D0A0B&title_color=FF5A5F&icon_color=FF5A5F&text_color=F3DCDD&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShazelRizwan00&layout=compact&langs_count=6&hide_border=true&bg_color=0D0A0B&title_color=FF5A5F&text_color=F3DCDD" alt="Most-used languages in public repositories" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShazelRizwan00&bg_color=0D0A0B&color=F3DCDD&line=FF5A5F&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ShazelRizwan00&show_icons=true&hide_border=true&bg_color=0D0D0F&title_color=F87171&icon_color=F87171&text_color=E5E7EB" alt="GitHub profile statistics" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShazelRizwan00&layout=compact&langs_count=6&hide_border=true&bg_color=0D0D0F&title_color=F87171&text_color=E5E7EB" alt="Most-used languages across public repositories" />
 
 </div>
 
-<sub>Stats and language cards are generated by external services and may occasionally be unavailable. Language share reflects public repository code, not proficiency.</sub>
+<sub>Language percentages describe public repository code, not proficiency.</sub>
 
 ---
 
 <div align="center">
 
-<img width="220" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Animated developer coding at a computer" />
+### Currently in build mode.
 
-### <code>while (curious) { learn(); build(); improve(); }</code>
+`learn(); build(); debug(); repeat();`
 
-<p>
-  <a href="https://www.shazel-rizwan.live/">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://github.com/ShazelRizwan00">GitHub</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/shazel-rizwan/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:shazelrizwan00@gmail.com">Email</a>
-</p>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=ShazelRizwan00&color=FF5A5F&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="https://www.shazel-rizwan.live/">Portfolio ↗</a> &nbsp;·&nbsp;
+<a href="https://github.com/ShazelRizwan00">GitHub ↗</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/shazel-rizwan/">LinkedIn ↗</a> &nbsp;·&nbsp;
+<a href="mailto:shazelrizwan00@gmail.com">Email ↗</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ShazelRizwan00&color=F87171&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
