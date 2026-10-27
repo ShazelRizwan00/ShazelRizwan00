@@ -1,112 +1,95 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:05080d,50:071d18,100:003b2f&text=SHAZEL%20RIZWAN&fontColor=00FF9C&fontSize=48&fontAlignY=42&desc=%3E%20computer%20science%20student%20%2F%2F%20builder%20in%20progress&descSize=14&descAlignY=62&animation=twinkling&stroke=00FF9C&strokeWidth=1" alt="Terminal-inspired Shazel Rizwan banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:07110E,100:10251D&text=SHAZEL%20RIZWAN&fontColor=7CFFB2&fontSize=42&fontAlignY=42&desc=CS%20STUDENT%20%20%2F%2F%20FULL-STACK%20DEVELOPER%20IN%20PROGRESS&descSize=12&descAlignY=68&animation=fadeIn" alt="Shazel Rizwan — terminal-inspired banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=850&color=00FF9C&center=true&vCenter=true&width=720&lines=%3E+building+full-stack+web+applications;%3E+exploring+backend+engineering;%3E+learning+through+real+projects;%3E+data+structures+%26+algorithms" alt="Animated developer focus" />
+<p>
+  <a href="https://www.shazel-rizwan.live/"><img src="https://img.shields.io/badge/Portfolio-Visit-7CFFB2?style=flat-square&logo=vercel&logoColor=07110E" alt="Portfolio" /></a>
+  <a href="https://github.com/ShazelRizwan00"><img src="https://img.shields.io/badge/GitHub-Follow-17211D?style=flat-square&logo=github&logoColor=7CFFB2" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/shazel-rizwan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-17211D?style=flat-square&logo=linkedin&logoColor=7CFFB2" alt="LinkedIn" /></a>
+  <a href="mailto:shazelrizwan00@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-17211D?style=flat-square&logo=gmail&logoColor=7CFFB2" alt="Email" /></a>
+</p>
 
-<a href="https://www.shazel-rizwan.live/"><img src="https://img.shields.io/badge/PORTFOLIO-00FF9C?style=for-the-badge&logo=vercel&logoColor=05080d" alt="Portfolio" /></a>
-<a href="https://github.com/ShazelRizwan00"><img src="https://img.shields.io/badge/GITHUB-101820?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/shazel-rizwan/"><img src="https://img.shields.io/badge/LINKEDIN-101820?style=for-the-badge&logo=linkedin&logoColor=00FF9C" alt="LinkedIn" /></a>
-<a href="mailto:shazelrizwan00@gmail.com"><img src="https://img.shields.io/badge/EMAIL-101820?style=for-the-badge&logo=gmail&logoColor=00FF9C" alt="Email" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=7CFFB2&center=true&vCenter=true&width=620&lines=%3E+building+useful+software;%3E+learning+by+shipping+projects;%3E+exploring+full-stack+engineering" alt="Animated developer tagline" />
 
 </div>
 
 ---
 
-## `whoami`
+### `$ whoami`
 
-<div align="center">
-  <img align="right" width="260" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Animated illustration of a developer coding at a computer" />
-</div>
-
-```bash
-shazel@dev:~$ whoami
-Computer Science student @ NUST, Pakistan
-
-shazel@dev:~$ current_focus
-Full-stack development • Backend engineering • Core CS
-
-shazel@dev:~$ philosophy
-Learn the fundamentals. Build useful things. Iterate.
-```
-
-I'm a Computer Science student at the **National University of Sciences and Technology (NUST)**, Pakistan. I enjoy turning ideas into working software while strengthening the foundations behind it: data structures, algorithms, databases, and software design.
+Computer Science student at **NUST, Pakistan**, interested in building full-stack applications and understanding the systems behind them. I learn by turning ideas into projects, improving the implementation, and strengthening my CS fundamentals along the way.
 
 - **Frontend:** React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
 - **Backend:** Node.js, Express, Java, Spring Boot, REST APIs
-- **Data:** SQL, PostgreSQL, MySQL, Supabase
-- **Core CS:** Data structures, algorithms, database systems, software engineering
+- **Data:** PostgreSQL, MySQL, Supabase, SQL
+- **Foundations:** Data structures, algorithms, database systems, software engineering
 
-<br clear="right"/>
-
-## `stack --list`
+### `$ tech --stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,java,spring,cpp,python,html,css,tailwind,postgres,mysql,supabase,git,github,docker,vscode&theme=dark&perline=7" alt="Technologies: JavaScript, TypeScript, React, Node.js, Express, Java, Spring Boot, C++, Python, HTML, CSS, Tailwind CSS, PostgreSQL, MySQL, Supabase, Git, GitHub, Docker, and VS Code" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,java,spring,cpp,python,html,css,tailwind,postgres,mysql,supabase,git,github,docker,vscode&theme=dark&perline=9" alt="Technologies: JavaScript, TypeScript, React, Node.js, Express, Java, Spring Boot, C++, Python, HTML, CSS, Tailwind CSS, PostgreSQL, MySQL, Supabase, Git, GitHub, Docker, and VS Code" />
 
 </div>
 
 ---
 
-## `./projects`
+### `$ ls ./projects`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏎️ PitLane
-**Formula 1 statistics dashboard**
+<a href="https://pit-lane-zeta.vercel.app/"><img src="https://img.shields.io/badge/01-PITLANE-7CFFB2?style=flat-square&labelColor=17211D" alt="PitLane project" /></a>
 
-A web application for exploring F1 standings, race schedules, and timing classifications.
+**Formula 1 statistics**
 
-<a href="https://pit-lane-zeta.vercel.app/"><img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-00FF9C?style=for-the-badge&logo=vercel&logoColor=05080d" alt="Open PitLane live demo" /></a>
+A web app focused on race schedules, standings, and timing classifications.
 
-<br/><br/>
-<img src="https://img.shields.io/badge/React-UI-101820?style=flat-square&logo=react&logoColor=00FF9C" alt="React" />
-<img src="https://img.shields.io/badge/Node.js%20%2B%20Express-Backend-101820?style=flat-square&logo=nodedotjs&logoColor=00FF9C" alt="Node.js and Express" />
+<sub>React · Node.js · Express</sub>
 
 <sub>Deployed; some features are still being refined.</sub>
+
+[Open live demo ↗](https://pit-lane-zeta.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🚚 Logistics System
-**Backend application project**
+<a href="https://github.com/ShazelRizwan00/CrewCollab"><img src="https://img.shields.io/badge/02-CREWSPACE-7CFFB2?style=flat-square&labelColor=17211D" alt="CrewSpace project" /></a>
 
-A logistics-system project focused on application structure and database-backed workflows.
+**Team collaboration platform**
 
-<a href="https://github.com/ShazelRizwan00/Logistics-System"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-00FF9C?style=for-the-badge&logo=github&logoColor=05080d" alt="View Logistics System repository" /></a>
+A project focused on collaboration workflows and organizing work across a team.
 
-<br/><br/>
-<img src="https://img.shields.io/badge/Java-101820?style=flat-square&logo=openjdk&logoColor=00FF9C" alt="Java" />
-<img src="https://img.shields.io/badge/Spring_Boot-101820?style=flat-square&logo=springboot&logoColor=00FF9C" alt="Spring Boot" />
+<sub>Project repository: CrewCollab</sub>
+
+[View repository ↗](https://github.com/ShazelRizwan00/CrewCollab)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 👾 Space Invaders
-**2D game development**
+<a href="https://www.shazel-rizwan.live/"><img src="https://img.shields.io/badge/03-PORTFOLIO-7CFFB2?style=flat-square&labelColor=17211D" alt="Portfolio project" /></a>
 
-A C++ game project exploring game loops, rendering, and development with Raylib and CMake.
+**Personal developer portfolio**
 
-<img src="https://img.shields.io/badge/C%2B%2B-101820?style=flat-square&logo=cplusplus&logoColor=00FF9C" alt="C++" />
-<img src="https://img.shields.io/badge/Raylib-101820?style=flat-square" alt="Raylib" />
-<img src="https://img.shields.io/badge/CMake-101820?style=flat-square&logo=cmake&logoColor=00FF9C" alt="CMake" />
+My portfolio for presenting projects, skills, and work in progress.
+
+<sub>React · Vite · Tailwind CSS</sub>
+
+[Visit portfolio ↗](https://www.shazel-rizwan.live/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏏 Cricket Prediction League
-**Developing project concept**
+<img src="https://img.shields.io/badge/04-CRICKET%20PREDICTIONS-7CFFB2?style=flat-square&labelColor=17211D" alt="Cricket prediction project" />
 
-A cricket-focused product concept around match predictions, leaderboards, leagues, and statistics.
+**Cricket prediction league**
 
-<img src="https://img.shields.io/badge/STATUS-CONCEPT_IN_DEVELOPMENT-101820?style=flat-square&color=00FF9C" alt="Concept in development" />
+A developing concept around match predictions, leaderboards, leagues, and cricket statistics.
 
-<sub>Planned direction: a responsive, data-driven full-stack experience. Features and stack may evolve.</sub>
+<sub>Planned: responsive, data-driven full-stack app.</sub>
 
 </td>
 </tr>
@@ -114,56 +97,32 @@ A cricket-focused product concept around match predictions, leaderboards, league
 
 ---
 
-## `languages --stats`
+### `$ github --overview`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShazelRizwan00&layout=donut-vertical&langs_count=8&hide_border=true&bg_color=05080d&title_color=00FF9C&text_color=c9d1d9" alt="Language distribution across public GitHub repositories" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShazelRizwan00&layout=compact&langs_count=8&hide_border=true&bg_color=05080d&title_color=00FF9C&text_color=c9d1d9" alt="Compact card of most-used programming languages" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=ShazelRizwan00&show_icons=true&hide_border=true&bg_color=0D1511&title_color=7CFFB2&icon_color=7CFFB2&text_color=D6E5DC" alt="GitHub statistics" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShazelRizwan00&layout=compact&langs_count=6&hide_border=true&bg_color=0D1511&title_color=7CFFB2&text_color=D6E5DC" alt="Most-used languages in public repositories" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShazelRizwan00&bg_color=0D1511&color=D6E5DC&line=7CFFB2&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution graph" />
 
 </div>
 
-<sub>Language cards reflect code detected in public repositories; they are not a measure of proficiency.</sub>
-
-## `git status`
-
-- Strengthening full-stack development skills with JavaScript and TypeScript.
-- Practising data structures, algorithms, and problem solving.
-- Improving API design, database modelling, and backend architecture.
-- Learning to build, test, deploy, and maintain software more effectively.
-
-## `github --stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShazelRizwan00&show_icons=true&hide_border=true&bg_color=05080d&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&ring_color=00FF9C" alt="GitHub account statistics" />
-<img height="165" src="https://streak-stats.demolab.com?user=ShazelRizwan00&hide_border=true&background=05080d&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" />
-
-</div>
-
-### Contribution graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShazelRizwan00&bg_color=05080d&color=c9d1d9&line=00FF9C&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-
-</div>
+<sub>Language statistics reflect code in public repositories, not skill level. External cards may occasionally be unavailable.</sub>
 
 ---
 
-## `connect --social`
-
 <div align="center">
 
-<a href="https://www.shazel-rizwan.live/"><img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=vercel&logoColor=05080d" alt="Portfolio website" /></a>
-<a href="https://github.com/ShazelRizwan00"><img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub profile" /></a>
-<a href="https://www.linkedin.com/in/shazel-rizwan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-<a href="mailto:shazelrizwan00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shazel" /></a>
+<img width="210" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Animated developer coding at a computer" />
 
-<br/>
+**Building • Learning • Iterating**
 
-<sub><code>Build • Learn • Iterate</code></sub>
+<a href="https://www.shazel-rizwan.live/">Portfolio</a> ·
+<a href="https://github.com/ShazelRizwan00">GitHub</a> ·
+<a href="https://www.linkedin.com/in/shazel-rizwan/">LinkedIn</a> ·
+<a href="mailto:shazelrizwan00@gmail.com">Email</a>
 
-<img src="https://komarev.com/ghpvc/?username=ShazelRizwan00&color=00ff9c&style=flat-square&label=PROFILE+VISITS" alt="Profile visit counter" />
+<img src="https://komarev.com/ghpvc/?username=ShazelRizwan00&color=7CFFB2&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
