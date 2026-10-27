@@ -1,154 +1,147 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:09090B,45:1A0508,100:450A0A&text=SHAZEL%20RIZWAN&fontColor=F87171&fontSize=54&fontAlignY=40&desc=ENGINEERING%20IDEAS%20INTO%20SOFTWARE&descSize=14&descAlignY=61&animation=fadeIn" alt="Shazel Rizwan — red and black software engineering banner" />
+<img width="100%" src="./assets/hero/terminal-hero.svg" alt="SHAZEL.EXE — retro hacker workstation boot screen in red phosphor and amber" />
 
 <p>
-  <a href="https://www.shazel-rizwan.live/">PORTFOLIO</a> &nbsp; / &nbsp;
-  <a href="https://github.com/ShazelRizwan00">GITHUB</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/shazel-rizwan/">LINKEDIN</a> &nbsp; / &nbsp;
+  <a href="https://www.shazel-rizwan.live/">PORTFOLIO</a> &nbsp; // &nbsp;
+  <a href="https://github.com/ShazelRizwan00">GITHUB</a> &nbsp; // &nbsp;
+  <a href="https://www.linkedin.com/in/shazel-rizwan/">LINKEDIN</a> &nbsp; // &nbsp;
   <a href="mailto:shazelrizwan00@gmail.com">CONTACT</a>
 </p>
 
+<sub><code>BOOT SEQUENCE COMPLETE // DEVELOPER PROFILE LOADED</code></sub>
+
 </div>
 
-<br/>
+---
 
-<table>
-<tr>
-<td width="62%" valign="top">
+## 01 // SYSTEM IDENTITY
 
-## 01 — The developer
-
-I'm **Shazel Rizwan**, a Computer Science student at **NUST, Pakistan**. I build projects to turn concepts into working software and grow as an engineer—from user-facing interfaces to backend logic and data.
-
-My current direction is **full-stack development**, with a focus on clean implementation, practical problem-solving, and strengthening core computer science fundamentals.
-
-</td>
-<td width="38%" valign="top">
-
-<img width="100%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Animated developer working at a computer" />
+I'm **Shazel Rizwan**, a Computer Science student at **NUST, Pakistan**. I build software to turn ideas into working products, with a current focus on full-stack development, practical engineering, and strengthening core CS fundamentals.
 
 ```text
-USER   shazel
-ROLE   CS student
-BASE   NUST, Pakistan
-MODE   build / learn / repeat
+USER      shazel-rizwan
+ROLE      CS student / developer
+BASE      NUST, Pakistan
+INTERESTS Full-stack · Product engineering · Core CS
+STATUS    LEARN  /  BUILD  /  DEBUG  /  REPEAT
 ```
 
-</td>
-</tr>
-</table>
+<img width="100%" src="./assets/graphics/terminal-divider.svg" alt="Red terminal divider" />
 
----
+## 02 // PROJECT DISPLAY WALL
 
-## 02 — Tools I work with
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,java,spring,cpp,python,html,css,tailwind,postgres,mysql,supabase,git,github,docker,vscode&theme=dark&perline=9" alt="JavaScript, TypeScript, React, Node.js, Express, Java, Spring Boot, C++, Python, HTML, CSS, Tailwind CSS, PostgreSQL, MySQL, Supabase, Git, GitHub, Docker, and VS Code" />
-
-</div>
-
-<sub>Frontend · Backend · Databases · Core CS</sub>
-
----
-
-## 03 — Selected work
+> Four projects. Different stages. Real work in progress.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://pit-lane-zeta.vercel.app/"><img width="100%" src="https://img.shields.io/badge/01%20%E2%80%94%20PITLANE-F87171?style=for-the-badge&labelColor=171717" alt="PitLane project" /></a>
+<a href="https://crewspace.runs-on.dev/"><img width="100%" src="./assets/graphics/workstation.svg" alt="Retro workstation illustration representing software projects" /></a>
 
-### 🏁 PitLane
+### 01 — CrewSpace
+
+A team collaboration platform, built around the idea of bringing team workflows into one workspace.
+
+**Status:** Live and presentable
+
+<a href="https://crewspace.runs-on.dev/">OPEN LIVE DEMO ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://pit-lane-zeta.vercel.app/"><img width="100%" src="https://img.shields.io/badge/PITLANE-F1%20STATISTICS-FF5B5B?style=for-the-badge&labelColor=0A0A0C" alt="PitLane Formula 1 statistics project" /></a>
+
+### 02 — PitLane
 
 A Formula 1 statistics web app focused on race schedules, standings, and timing classifications.
 
-**Stack**  
-`React` · `Node.js` · `Express`
+**Stack:** React · Node.js · Express  
+**Status:** Live; some features are still being refined.
 
-[Explore live project ↗](https://pit-lane-zeta.vercel.app/)
-
-<sub>Live deployment; some features are still being refined.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://crewspace.runs-on.dev/"><img width="100%" src="https://img.shields.io/badge/02%20%E2%80%94%20CREWSPACE-F87171?style=for-the-badge&labelColor=171717" alt="CrewSpace project" /></a>
-
-### 🧩 CrewSpace
-
-A team collaboration platform project, built around the idea of bringing team workflows into one workspace.
-
-**Project access**
-
-[Explore live project ↗](https://crewspace.runs-on.dev/)
+<a href="https://pit-lane-zeta.vercel.app/">OPEN LIVE DEMO ↗</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://www.shazel-rizwan.live/"><img width="100%" src="https://img.shields.io/badge/03%20%E2%80%94%20PORTFOLIO-F87171?style=for-the-badge&labelColor=171717" alt="Portfolio project" /></a>
+<a href="https://www.shazel-rizwan.live/"><img width="100%" src="https://img.shields.io/badge/SHZL.DEV-PERSONAL%20PORTFOLIO-FFBF69?style=for-the-badge&labelColor=0A0A0C" alt="Personal portfolio project" /></a>
 
-### ✦ Personal portfolio
+### 03 — Personal portfolio
 
 My own corner of the web for presenting projects, technical interests, and what I'm learning.
 
-**Stack**  
-`React` · `Vite` · `Tailwind CSS`
+**Stack:** React · Vite · Tailwind CSS
 
-[Visit website ↗](https://www.shazel-rizwan.live/)
+<a href="https://www.shazel-rizwan.live/">VISIT PORTFOLIO ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://img.shields.io/badge/04%20%E2%80%94%20CRICKET%20PROJECT-F87171?style=for-the-badge&labelColor=171717" alt="Cricket project" />
+<img width="100%" src="./assets/graphics/terminal-divider.svg" alt="Terminal-style project divider" />
 
-### 🏏 Cricket prediction league
+### 04 — Cricket Prediction League
 
-A developing project concept around cricket predictions, leagues, leaderboards, and match statistics.
+A developing concept around cricket predictions, leagues, leaderboards, and match statistics.
 
-**Direction**  
-`Sports data` · `Predictions` · `Full-stack`
+**Stage:** Concept / still developing  
+**Direction:** Sports data · Predictions · Full-stack
 
-<sub>Concept and planned features are still evolving.</sub>
+<sub>No live demo claimed; scope and features are still evolving.</sub>
 
 </td>
 </tr>
 </table>
 
----
+<img width="100%" src="./assets/graphics/terminal-divider.svg" alt="Red terminal divider" />
 
-## 04 — GitHub activity
+## 03 // SOFTWARE INVENTORY
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ShazelRizwan00&show_icons=true&hide_border=true&bg_color=0D0D0F&title_color=F87171&icon_color=F87171&text_color=E5E7EB" alt="GitHub profile statistics" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShazelRizwan00&layout=compact&langs_count=6&hide_border=true&bg_color=0D0D0F&title_color=F87171&text_color=E5E7EB" alt="Most-used languages across public repositories" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,java,spring,cpp,python,html,css,tailwind,postgres,mysql,supabase,git,github,docker,vscode&theme=dark&perline=9" alt="Technologies and tools: JavaScript, TypeScript, React, Node.js, Express, Java, Spring Boot, C++, Python, HTML, CSS, Tailwind CSS, PostgreSQL, MySQL, Supabase, Git, GitHub, Docker, and VS Code" />
 
 </div>
 
-<sub>Language percentages describe public repository code, not proficiency.</sub>
+```text
+[ FRONTEND ]   React · JavaScript · TypeScript · Tailwind CSS
+[ BACKEND  ]   Node.js · Express · Java · Spring Boot
+[ DATA     ]   PostgreSQL · MySQL · Supabase
+[ TOOLS    ]   Git · GitHub · Docker · VS Code
+[ CORE CS  ]   Data structures · Algorithms · Software engineering
+```
+
+<img width="100%" src="./assets/graphics/terminal-divider.svg" alt="Red terminal divider" />
+
+## 04 // ACTIVITY MONITOR
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShazelRizwan00&show_icons=true&hide_border=true&bg_color=0A0A0C&title_color=FF5B5B&icon_color=FFBF69&text_color=C9D1D9&ring_color=FF5B5B" alt="GitHub contribution and repository statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShazelRizwan00&layout=compact&langs_count=6&hide_border=true&bg_color=0A0A0C&title_color=FF5B5B&text_color=C9D1D9" alt="Most-used languages in public repositories" />
+
+</div>
+
+<sub>Language breakdowns reflect code in public repositories; they are not a measure of skill or proficiency.</sub>
 
 ---
 
 <div align="center">
 
-### Currently in build mode.
+<img width="72%" src="./assets/graphics/workstation.svg" alt="Retro terminal workstation illustration" />
+
+### SESSION ACTIVE // MORE BUILDS IN PROGRESS
 
 `learn(); build(); debug(); repeat();`
 
-<br/>
-
-<a href="https://www.shazel-rizwan.live/">Portfolio ↗</a> &nbsp;·&nbsp;
-<a href="https://github.com/ShazelRizwan00">GitHub ↗</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/shazel-rizwan/">LinkedIn ↗</a> &nbsp;·&nbsp;
-<a href="mailto:shazelrizwan00@gmail.com">Email ↗</a>
+<a href="https://www.shazel-rizwan.live/">PORTFOLIO ↗</a> &nbsp; // &nbsp;
+<a href="https://github.com/ShazelRizwan00">GITHUB ↗</a> &nbsp; // &nbsp;
+<a href="https://www.linkedin.com/in/shazel-rizwan/">LINKEDIN ↗</a> &nbsp; // &nbsp;
+<a href="mailto:shazelrizwan00@gmail.com">EMAIL ↗</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ShazelRizwan00&color=F87171&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ShazelRizwan00&color=FF5B5B&style=flat-square&label=TERMINAL+VISITS" alt="Profile views" />
 
 </div>
